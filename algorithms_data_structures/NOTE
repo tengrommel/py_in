@@ -1,0 +1,11 @@
+Big O notation
+
+Landau notation
+Describes the limiting behavior of a function when the argument tends towards a particular value or infinity
+A description of a function in terms of big O notation usually only provides on upper bound on the growth rate of the function!!!
+There are several related notations, using the symbols ...
+
+            LinkedList      Arrays
+indexing        O(n)         O(1)
+Insert          O(1)         O(n)
+Waste space     O(n)         0
